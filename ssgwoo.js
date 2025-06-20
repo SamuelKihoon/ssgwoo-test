@@ -14858,7 +14858,7 @@ const Om = kg.api.baseUrl,
                 className: "bg-white border-4 border-blue-400 rounded-none px-4 py-2 shadow-[3px_3px_0px_rgba(0,0,0,0.2)]",
                 children: p.jsxs("div", {
                     className: "text-xl font-bold text-blue-600 pixel-font",
-                    children: ["⏰ ", i, "초"]
+                    children: ["⏰🪴🪴 ", i, "초"]
                 })
             }), p.jsx("div", {
                 className: "bg-white border-4 border-green-400 rounded-none px-4 py-2 shadow-[3px_3px_0px_rgba(0,0,0,0.2)]",
